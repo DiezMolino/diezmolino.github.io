@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Inaugural post"
-date: 2015-07-10
+title: "SMBE 2015, Vienna"
+date: 2015-07-13
 ---
 
-In this blog I'll post an comment interesting news and papers related with my research.
+#Nice venue
+
+The first thing that suprises the attendant is the obvious magnificence of the venue. The *Hofburg Palace* was built in the 13th century and housed the Habsburg dinasty, rulers during the Austro-Hungarian empire. The 
 
 ** Under construction **
 
