@@ -10,4 +10,4 @@ The first thing that suprises the attendant is the obvious magnificence of the v
 
 After a few nervous moments, a little sweaty wait and some 'heys' to some known faces we made it to the inaugural congerence by Joe Felsenstein. It was ok. Then drinks. A few more 'heys'. A bit of food and drinks and then we reached the highight of the day: beers on an Australian Pub. There were Ian Barnes and Selyna, always fidel to the beer rithual to loosen conversation. Fun.
 
-![](https://cloud.githubusercontent.com/assets/13287919/8649367/8f760740-2961-11e5-94a3-f9611a46e125.jpg =250x)
+![](https://cloud.githubusercontent.com/assets/13287919/8649367/8f760740-2961-11e5-94a3-f9611a46e125.jpg =234x416)
