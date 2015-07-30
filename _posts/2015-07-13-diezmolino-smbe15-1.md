@@ -15,7 +15,7 @@ After a few nervous moments, a little sweaty wait and some 'heys' to some known 
 <figure/>
 </div>
 
-<p style="text-align: left">
+<p style="text-align: left; margin: 0em">
 Overall, SMBE15 was FUN. That's the conclusion I reached the very same day the conference was finished. I enjoyed a lot some of the talks. Some topics were specially relevant. We got lots of 'congrats' for the *Ancient DNA and Selection* symposium we organized. That is always encouraging. As John Novembre said about his *Popgen in Space!* symposium, we got six talks plus two great keynote speakers, maybe in six years we will get four symposium slots and forty talks. I certainly think that, as ancient genomes increase in number and quality, selection is going to be the next big thing in relation ancient DNA, so chances are high.
 
 As expected, the spectrum of research themes was huge. Bigger than anybody could possibly take. I couldn't avoid the feeling, however, that there was a missing topic, and one that for me was and still is very important. There was little mention to invasive species. 
