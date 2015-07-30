@@ -20,5 +20,4 @@ Overall, SMBE15 was FUN. That's the conclusion I reached the very same day the c
 
 As expected, the spectrum of research themes was huge. Bigger than anybody could possibly take. I couldn't avoid the feeling, however, that there was a missing topic, and one that for me was and still is very important. There was little mention to invasive species. 
 
-I loved to engage with the people. I finally meet some of the big sharks that I have been reading about, and most of them are great. They are common people after all. Meeting new people is great, but I also enjoyed spending time with people I already knew (or I thought I knew) in a different enviroment that at work. It helps a lot to know them better.
-</p>
+I loved to engage with the people. I finally meet some of the big sharks that I have been reading about, and most of them are great. They are common people after all. Meeting new people is great, but I also enjoyed spending time with people I already knew (or I thought I knew) in a different enviroment that at work. It helps a lot to know them better.</p>
