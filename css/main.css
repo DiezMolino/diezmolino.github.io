@@ -1,9 +1,9 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Freight Text Pro';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -36,6 +36,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    line-height: 1.4em;
 }
 
 ul.posts li {
