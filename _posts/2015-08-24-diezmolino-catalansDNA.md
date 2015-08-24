@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "CatalansDNA"
+title: 'CatalansDNA'
 date: 2015-08-24
 ---
 
