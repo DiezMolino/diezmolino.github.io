@@ -24,7 +24,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'JAF Bernino Sans';
+    font-family: 'Myraid';
 }
 p {
     font-size: 1.5em;
@@ -45,4 +45,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
     line-height: 1.4em;
+}
+
+::selection {
+  background: #ffb7b7; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #ffb7b7; /* Gecko Browsers */
 }
