@@ -62,3 +62,9 @@ ul.posts li {
   background: #ffb7b7; /* Gecko Browsers */
 }
 
+div {
+    background: url("https://cloud.githubusercontent.com/assets/13287919/9503834/313b034a-4c31-11e5-9da3-1c13ad9f231a.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
