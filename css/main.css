@@ -5,9 +5,11 @@ body {
 header {
     background-image: url("https://cloud.githubusercontent.com/assets/13287919/9503834/313b034a-4c31-11e5-9da3-1c13ad9f231a.png");
     background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-position: center center;
     background-size: cover;
-    max-width: 100%;
 }
 
 nav ul, footer ul {
