@@ -4,10 +4,8 @@ body {
 }
 .main-header {
   text-align: center;
-  margin: 0;
-  background: top center;
-  height: 192px; 
-  width: 740px; 
+  margin: 0 auto;
+  width: 100%; 
 }
 nav ul, footer ul {
     font-family:'Freight Text Pro';
