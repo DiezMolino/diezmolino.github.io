@@ -28,6 +28,7 @@ a {
 a:hover {
     text-decoration: none;
     color: #990000;
+    background-color: yellow;
 }
 h1 {
     font-size: 3em;
