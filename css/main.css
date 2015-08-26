@@ -2,12 +2,17 @@ body {
     margin: 60px auto;
     width: 80%;
 }
-.main-header {
-  background: url("https://cloud.githubusercontent.com/assets/13287919/9503834/313b034a-4c31-11e5-9da3-1c13ad9f231a.png") no-repeat top center;
-  width: 100%;
-  top: 0px;
-  margin: 0 auto;
+header {
+    background-image: url("https://cloud.githubusercontent.com/assets/13287919/9503834/313b034a-4c31-11e5-9da3-1c13ad9f231a.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 209px;
 }
+
 nav ul, footer ul {
     font-family:'Freight Text Pro';
     padding: 0px;
