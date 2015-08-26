@@ -5,6 +5,7 @@ body {
 .main-header {
   text-align: center;
   margin: 0 auto;
+  background: url("https://cloud.githubusercontent.com/assets/13287919/9503834/313b034a-4c31-11e5-9da3-1c13ad9f231a.png") no-repeat top center;
   width: 100%; 
 }
 nav ul, footer ul {
