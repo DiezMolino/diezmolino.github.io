@@ -10,7 +10,7 @@ header {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 209px;
+    padding-bottom:15%
 }
 
 nav ul, footer ul {
