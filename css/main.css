@@ -5,7 +5,7 @@ body {
 .main-header {
   text-align: center;
   margin: 0;
-  padding: 0px 0px 0px 0px;
+  background: top center;
   height: 192px; 
   width: 740px; 
 }
