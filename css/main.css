@@ -6,7 +6,9 @@ body {
   text-align: center;
   margin: 0 auto;
   background: url("https://cloud.githubusercontent.com/assets/13287919/9503834/313b034a-4c31-11e5-9da3-1c13ad9f231a.png") no-repeat top center;
-  width: 100%; 
+  width: 100%;
+  position:fixed;
+  top:0px;
 }
 nav ul, footer ul {
     font-family:'Freight Text Pro';
