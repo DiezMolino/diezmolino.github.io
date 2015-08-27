@@ -21,11 +21,10 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     line-height: 1.4em;
-    color: White;
 }
 a {
     text-decoration: none;
-    color: #006699;
+    color: White;
 }
 a:hover {
     text-decoration: none;
