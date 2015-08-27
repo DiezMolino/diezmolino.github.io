@@ -7,7 +7,7 @@ body {
     height: 100px;
     margin: 0;
     padding: 15px;
-    position: fixed;
+    position: cover;
     background-color: Black;
 }
 nav ul, footer ul {
