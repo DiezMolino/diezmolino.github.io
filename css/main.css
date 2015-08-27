@@ -16,7 +16,6 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     line-height: 1.4em;
-    color: White;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -25,16 +24,18 @@ nav ul li, footer ul li {
     color: White;
 
 }
-a {
+a.one {
     text-decoration: none;
+    color: #006699;
+}
+a.two {
+    text-decoration: none;
+    color: White;
 }
 a:hover {
     text-decoration: none;
     color: black;
     background-color: yellow;
-}
-a:visited {
-    color: grey;
 }
 h1 {
     font-size: 3em;
