@@ -16,6 +16,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     line-height: 1.4em;
+    color: White;
 }
 nav ul li, footer ul li {
     display: inline;
