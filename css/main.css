@@ -2,6 +2,14 @@ body {
     margin: 60px auto;
     width: 80%;
 }
+#header {
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    padding: 5px;
+    position: cover;
+    background-color: Black;
+}
 nav ul, footer ul {
     font-family:'Freight Text Pro';
     padding: 0px;
@@ -13,14 +21,21 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     line-height: 1.4em;
+    color: #006699;
+
 }
-a {
+a.one {
     text-decoration: none;
     color: #006699;
 }
+a.two {
+    text-decoration: none;
+    color: White;
+}
 a:hover {
     text-decoration: none;
-    color: #990000;
+    color: black;
+    background-color: yellow;
 }
 h1 {
     font-size: 3em;
@@ -53,4 +68,6 @@ ul.posts li {
 ::-moz-selection {
   background: #ffb7b7; /* Gecko Browsers */
 }
+
+
 
